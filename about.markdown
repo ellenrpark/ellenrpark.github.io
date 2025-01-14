@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-{%
-  include figure.html
-  image="assets/images/Park_Ellen.jpeg"
-  #caption="test"
-  width="300px"
-%}
+![GSD1 phenotype](assets/images/Park_Ellen.jpeg)
+
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
