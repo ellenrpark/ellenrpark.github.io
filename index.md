@@ -5,4 +5,6 @@
 layout: home
 ---
 
-Hello world! My name is Ellen <3 
+Hello world! My name is Ellen <3 I think the ocean is pretty neat
+
+![GSD1 phenotype](assets/images/Park_Ellen.jpeg){: width="250" }
